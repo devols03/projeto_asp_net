@@ -1,0 +1,14 @@
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net4.8\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net4.8\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net4.8\EntityFramework.SqlServer.dll
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net4.8\EntityFramework.dll
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net4.8\ProjetoModeloDDD.Domain.dll
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\net4.8\ProjetoModeloDDD.Domain.pdb
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net4.8\ProjetoModeloDDD.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net4.8\ProjetoModeloDDD.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net4.8\ProjetoModeloDDD.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net4.8\ProjetoModeloDDD.Infra.Data.AssemblyInfo.cs
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net4.8\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net4.8\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net4.8\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\net4.8\ProjetoModeloDDD.Infra.Data.pdb

@@ -46,7 +46,7 @@ namespace ProjetoModeloDDD.Infra.Data.Context
         public override int SaveChanges()
         {
 
-            foreach (var entry in ChangeTracker.Entries().Where(Entry => Entry.Entity.GetType().GetProperty("DateRegirter") != null))
+            foreach (var entry in ChangeTracker.Entries().Where(Entry => Entry.Entity.GetType().GetProperty("DateRegister") != null))
             {
                 if (entry.State == EntityState.Added)
                 {
@@ -60,6 +60,7 @@ namespace ProjetoModeloDDD.Infra.Data.Context
             }
 
             return base.SaveChanges();
+
         }
 
 

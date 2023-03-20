@@ -4,6 +4,68 @@
     "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj": {}
   },
   "projects": {
+    "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj",
+        "projectName": "ProjetoModeloDDD.Application",
+        "projectPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj",
+        "packagesPath": "C:\\Users\\dev03\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dev03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj"
+              },
+              "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -59,14 +121,14 @@
         }
       }
     },
-    "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj": {
+    "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj",
-        "projectName": "ProjetoModeloDDD.MVC",
-        "projectPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj",
+        "projectName": "ProjetoModeloDDD.Infra.Data",
+        "projectPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\ProjetoModeloDDD.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\dev03\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\obj\\",
+        "outputPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dev03\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,13 +161,89 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj",
+        "projectName": "ProjetoModeloDDD.MVC",
+        "projectPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\ProjetoModeloDDD.MVC.csproj",
+        "packagesPath": "C:\\Users\\dev03\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dev03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj": {
+                "projectPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Application\\ProjetoModeloDDD.Application.csproj"
+              },
+              "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\dev03\\Documents\\projects\\csharp\\ProjetoModeloDDD\\ProjetoModeloDDD.Domain\\ProjetoModeloDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[3.2.1, )"
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
             },
             "EntityFramework": {
               "target": "Package",
               "version": "[6.4.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
             }
           },
           "imports": [

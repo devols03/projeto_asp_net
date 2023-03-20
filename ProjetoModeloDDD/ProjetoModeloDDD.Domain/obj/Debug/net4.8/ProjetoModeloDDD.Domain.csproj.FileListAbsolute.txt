@@ -1,0 +1,9 @@
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\net4.8\ProjetoModeloDDD.Domain.dll
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\net4.8\ProjetoModeloDDD.Domain.pdb
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net4.8\ProjetoModeloDDD.Domain.csproj.AssemblyReference.cache
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net4.8\ProjetoModeloDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net4.8\ProjetoModeloDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net4.8\ProjetoModeloDDD.Domain.AssemblyInfo.cs
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net4.8\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net4.8\ProjetoModeloDDD.Domain.dll
+C:\Users\dev03\Documents\projects\csharp\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\net4.8\ProjetoModeloDDD.Domain.pdb
